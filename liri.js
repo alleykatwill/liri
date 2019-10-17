@@ -1,6 +1,6 @@
 // Required packages and Vars
 
-require("dotnev").config();
+require("dotenv").config();
 var request = require("request");
 var axios = require("axios");
 var keys = require("./keys.js");
